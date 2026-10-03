@@ -1,0 +1,4 @@
+SITE - Arch. Walid Saidane (AWSC Bioclimatic)
+index.html : la page du site (textes FR/EN/AR, projets, programmes).
+images/ et images2/ : toutes les images du site (deux dossiers car GitHub
+accepte au maximum 100 fichiers par envoi depuis le navigateur).
