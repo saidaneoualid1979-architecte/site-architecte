@@ -1,68 +1,76 @@
 {
   "projets": [
     {
-      "id": "olympic",
-      "titre": {
-        "fr": "Réaménagement de la Salle Olympique de Sousse",
-        "en": "Redevelopment of the Sousse Olympic Hall",
-        "ar": "إعادة تهيئة القاعة الأولمبية بسوسة"
+      "annee": 2023,
+      "facades_existantes": [
+        {
+          "image": "/images/uploads/83904354_466244334279904_3759964024758861824_n.jpg"
+        }
+      ],
+      "avant_apres": [
+        {
+          "avant": "/images/uploads/img_20191023_113053.jpg",
+          "apres": "/images/uploads/img20240226100332.jpg"
+        }
+      ],
+      "mission": {
+        "fr": "CONCEPTION / PERMIS DE BATIR / DECORATION INTERIEURE ET SUIVI DE CHANTIER"
       },
-      "annee": 2026,
-      "annee_affichee": "2026–2027",
-      "categorie": "pub",
-      "vedette": 1,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
-      },
-      "resume": {
-        "fr": "Projet intérieur et extérieur : hall d'entrée, couloirs de circulation, salon principal et nouvelle façade de la salle.",
-        "en": "Interior and exterior project: entrance hall, circulation corridors, main lounge and a new façade for the arena.",
-        "ar": "مشروع داخلي وخارجي: بهو المدخل، أروقة الحركة، القاعة الرئيسية وواجهة جديدة للقاعة."
-      },
-      "images": [
-        "images2/o6.jpg",
-        "images2/o7.jpg",
-        "images2/o5.jpg",
-        "images2/o8.jpg",
-        "images2/o1.jpg",
-        "images/6.jpg",
-        "images/7.jpg",
-        "images/8.jpg",
-        "images/9.jpg",
-        "images/10.jpg",
-        "images/11.jpg",
-        "images2/o2.jpg",
-        "images2/o3.jpg"
+      "surface": "100 M²",
+      "existant": [
+        "/images/uploads/img_20191023_113127.jpg"
       ],
       "maitre_ouvrage": {
-        "fr": "Municipalité de Sousse",
-        "en": "Municipality of Sousse",
-        "ar": "بلدية سوسة"
+        "fr": "MUNICIPALITE DE AKOUDA",
+        "en": "MUNICIPALITE DE AKOUDA"
       },
-      "surface": "3 500 m²",
-      "statut": {
-        "fr": "Phase d'étude du projet",
-        "en": "Design study phase",
-        "ar": "مرحلة دراسة المشروع"
-      },
-      "mission": {
-        "fr": "Étude, dossier d'exécution et suivi de chantier",
-        "en": "Design study, construction documents and site supervision",
-        "ar": "الدراسة وملف التنفيذ ومتابعة الحضيرة"
-      },
+      "vedette": 0,
       "parti": {
-        "fr": "La nouvelle Salle Olympique de Sousse est conçue comme une icône contemporaine de la Tunisie méditerranéenne. Plus qu'un équipement sportif, elle devient un symbole national où l'excellence sportive rencontre l'identité culturelle tunisienne.\n\nL'architecture s'inspire de trois éléments fondateurs du territoire :\n\n- la Méditerranée et le mouvement des vagues ;\n- la lumière blanche des villes côtières tunisiennes ;\n- le patrimoine géométrique et artisanal de la médina de Sousse.\n\nL'objectif : une architecture qui ne pourrait exister nulle part ailleurs qu'en Tunisie, tout en répondant aux standards internationaux des infrastructures olympiques contemporaines.",
-        "en": "The new Sousse Olympic Hall is designed as a contemporary icon of Mediterranean Tunisia. More than a sports facility, it becomes a national symbol where sporting excellence meets Tunisian cultural identity.\n\nThe architecture draws on three founding elements of the territory:\n\n- the Mediterranean and the movement of the waves;\n- the white light of Tunisia's coastal towns;\n- the geometric and craft heritage of the Sousse medina.\n\nThe aim: an architecture that could exist nowhere but in Tunisia, while meeting the international standards of contemporary Olympic facilities.",
-        "ar": "صُمّمت القاعة الأولمبية الجديدة بسوسة كأيقونة معاصرة لتونس المتوسطية. فهي أكثر من مجرد منشأة رياضية: إنها رمز وطني يلتقي فيه التميّز الرياضي بالهوية الثقافية التونسية.\n\nتستلهم العمارة ثلاثة عناصر مؤسِّسة للمكان:\n\n- البحر الأبيض المتوسط وحركة الأمواج؛\n- الضوء الأبيض للمدن الساحلية التونسية؛\n- الموروث الهندسي والحرفي لمدينة سوسة العتيقة.\n\nالهدف: عمارة لا يمكن أن توجد إلا في تونس، مع الاستجابة للمعايير الدولية للمنشآت الأولمبية المعاصرة."
+        "fr": "CREER ET CONCEVOIR UN ESPACE DE VIE AUSSI BIEN POUR LES EMPLOYES QUE POUR LES VISITEURS"
       },
+      "categorie": "pub",
+      "images": [
+        "/images/uploads/83999001_537718213528455_3702008753973886976_n.jpg",
+        "/images/uploads/83667444_2642791379286469_4717363933558603776_n.jpg"
+      ],
+      "id": "Maison de Service Akouda"
+    },
+    {
+      "vedette": 2,
+      "titre": {
+        "fr": "REAMENAGEMENT D'UN LOCAL DE SERVICE A AKOUDA"
+      },
+      "lieu": {
+        "fr": "AKOUDA"
+      },
+      "images": [
+        "/images/uploads/img20240226085110.jpg",
+        "/images/uploads/img20240419110217.jpg",
+        "/images/uploads/img20240306151553.jpg",
+        "/images/uploads/img20240419110142.jpg"
+      ],
+      "maitre_ouvrage": {
+        "fr": "MUNICIPALITE DE AKOUDA"
+      },
+      "surface": "100 M²",
+      "avant_apres": [
+        {
+          "avant": "/images/uploads/img_20191023_113053.jpg",
+          "apres": "/images/uploads/83999001_537718213528455_3702008753973886976_n.jpg"
+        },
+        {
+          "avant": "/images/uploads/83904354_466244334279904_3759964024758861824_n.jpg",
+          "apres": "/images/uploads/img20240226085110.jpg"
+        }
+      ]
+    },
+    {
       "bioclimatique": {
         "fr": "## Lumière et air\n\n- Orientation nord-sud pour maximiser la lumière naturelle.\n- Ventilation naturelle par lanterneaux et grilles basses : la forme du bâtiment favorise la circulation transversale et verticale de l'air, avec un renouvellement suffisant pour évacuer la surchauffe.\n- Des espaces conçus pour profiter au maximum de l'éclairage naturel.\n\n## Enveloppe et matériaux\n\n- Brise-soleil réglables, façades ventilées et vitrages à contrôle solaire.\n- Isolation renforcée à base de matériaux écologiques.\n- Matériaux locaux, produits durables et équipements adaptés à leur environnement.\n\n## Énergies renouvelables\n\n- Panneaux photovoltaïques en toiture.\n- Système solaire thermique pour l'eau chaude sanitaire.\n- Éclairage LED intelligent et récupération des eaux de pluie.\n- Lampes économiques au rendement lumineux 5 à 6 fois supérieur, et à la durée de vie 8 fois plus longue, que celles des lampes classiques.\n\n## Sensibilisation\n\n- Tri sélectif des déchets, pour initier les jeunes à la réduction des déchets.",
         "en": "## Light and air\n\n- North-south orientation to make the most of daylight.\n- Natural ventilation through roof lanterns and low grilles: the building's form encourages cross and stack airflow, with enough air changes to remove excess heat.\n- Spaces designed to receive as much daylight as possible.\n\n## Envelope and materials\n\n- Adjustable sun breakers, ventilated façades and solar-control glazing.\n- Reinforced insulation using ecological materials.\n- Local materials, durable products and equipment suited to their setting.\n\n## Renewable energy\n\n- Rooftop photovoltaic panels.\n- Solar thermal system for domestic hot water.\n- Smart LED lighting and rainwater harvesting.\n- Energy-saving lamps with 5 to 6 times the luminous efficacy, and 8 times the lifespan, of conventional lamps.\n\n## Awareness\n\n- Waste sorting, to introduce young people to the need to reduce waste.",
         "ar": "## الضوء والهواء\n\n- توجيه شمال-جنوب لتحقيق أقصى استفادة من الإضاءة الطبيعية.\n- تهوئة طبيعية عبر فتحات علوية وشبكات سفلية: يسهّل شكل المبنى الحركة الأفقية والعمودية للهواء، مع تجديد كافٍ لطرد الحرارة الزائدة.\n- فضاءات مصمّمة للاستفادة القصوى من الإضاءة الطبيعية.\n\n## الغلاف والمواد\n\n- كاسرات شمس قابلة للتعديل، واجهات مهوّاة وزجاج للتحكم في الإشعاع الشمسي.\n- عزل معزّز بمواد بيئية.\n- مواد محلية ومنتجات مستدامة وتجهيزات ملائمة لمحيطها.\n\n## الطاقات المتجددة\n\n- ألواح شمسية فولطاضوئية على السطح.\n- منظومة شمسية حرارية لتسخين المياه الصحية.\n- إنارة LED ذكية واسترجاع مياه الأمطار.\n- مصابيح اقتصادية بمردود ضوئي أعلى بـ5 إلى 6 مرات وعمر أطول بـ8 مرات من المصابيح التقليدية.\n\n## التوعية\n\n- فرز انتقائي للنفايات لتوعية الشباب بضرورة التقليص من النفايات."
       },
-      "plans": [],
+      "annee": 2026,
       "facades_existantes": [
         {
           "image": "images2/bS.jpg",
@@ -103,68 +111,71 @@
           "apres": "images2/o8.jpg"
         }
       ],
-      "existant": []
-    },
-    {
-      "id": "cafe26",
-      "titre": {
-        "fr": "Réaménagement d'un café-restaurant",
-        "en": "Café-restaurant redevelopment",
-        "ar": "إعادة تهيئة مقهى ومطعم"
+      "plans": [],
+      "annee_affichee": "2026–2027",
+      "mission": {
+        "fr": "Étude, dossier d'exécution et suivi de chantier",
+        "en": "Design study, construction documents and site supervision",
+        "ar": "الدراسة وملف التنفيذ ومتابعة الحضيرة"
       },
-      "annee": 2026,
-      "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 2,
+      "resume": {
+        "fr": "Projet intérieur et extérieur : hall d'entrée, couloirs de circulation, salon principal et nouvelle façade de la salle.",
+        "en": "Interior and exterior project: entrance hall, circulation corridors, main lounge and a new façade for the arena.",
+        "ar": "مشروع داخلي وخارجي: بهو المدخل، أروقة الحركة، القاعة الرئيسية وواجهة جديدة للقاعة."
+      },
+      "surface": "3 500 m²",
       "lieu": {
         "fr": "Sousse",
         "en": "Sousse",
         "ar": "سوسة"
       },
-      "resume": {
-        "fr": "Bois, pierre claire, végétal suspendu et lumière indirecte pour un lieu chaleureux, du comptoir à la salle.",
-        "en": "Wood, pale stone, hanging greenery and indirect light make a warm place, from the counter to the dining room.",
-        "ar": "الخشب والحجر الفاتح والنباتات المعلّقة والإضاءة غير المباشرة لفضاء دافئ، من الكونتوار إلى القاعة."
-      },
-      "images": [
-        "images2/n3.jpg",
-        "images2/n6.jpg",
-        "images2/n1.jpg",
-        "images2/n4.jpg",
-        "images2/n5a.jpg",
-        "images2/n5b.jpg",
-        "images2/n5c.jpg",
-        "images2/n2.jpg",
-        "images/3.jpg",
-        "images/5.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
-        "fr": "Privé",
-        "en": "Private client",
-        "ar": "خاص"
+        "fr": "Municipalité de Sousse",
+        "en": "Municipality of Sousse",
+        "ar": "بلدية سوسة"
       },
-      "surface": "350 m²",
+      "titre": {
+        "fr": "Réaménagement de la Salle Olympique de Sousse",
+        "en": "Redevelopment of the Sousse Olympic Hall",
+        "ar": "إعادة تهيئة القاعة الأولمبية بسوسة"
+      },
       "statut": {
-        "fr": "Étude terminée",
-        "en": "Design completed",
-        "ar": "الدراسة منتهية"
+        "fr": "Phase d'étude du projet",
+        "en": "Design study phase",
+        "ar": "مرحلة دراسة المشروع"
       },
-      "mission": {
-        "fr": "Étude et décoration",
-        "en": "Design study and interior design",
-        "ar": "الدراسة والديكور"
-      },
+      "vedette": 1,
       "parti": {
-        "fr": "L'idée principale du projet : associer la décoration à la verdure, et offrir un maximum de lumière.\n\nLe projet garde l'esprit chaleureux du lieu, avec son plafond à caissons en bois et ses poteaux habillés, et le transforme en un espace lumineux et vivant : plantes suspendues, matériaux clairs et éclairage généreux, de la salle au comptoir.",
-        "en": "The main idea of the project: to combine the interior design with greenery, and to bring in as much light as possible.\n\nThe project keeps the warm character of the place, with its timber coffered ceiling and clad columns, and turns it into a bright, lively space: hanging plants, pale materials and generous lighting, from the dining room to the counter.",
-        "ar": "الفكرة الرئيسية للمشروع: الجمع بين الديكور والخضرة، وتوفير أقصى قدر من الإضاءة.\n\nيحافظ المشروع على الطابع الدافئ للمكان، بسقفه الخشبي المربّع وأعمدته المكسوّة، ويحوّله إلى فضاء مضيء ونابض بالحياة: نباتات معلّقة، مواد فاتحة وإضاءة سخيّة، من القاعة إلى الكونتوار."
+        "fr": "La nouvelle Salle Olympique de Sousse est conçue comme une icône contemporaine de la Tunisie méditerranéenne. Plus qu'un équipement sportif, elle devient un symbole national où l'excellence sportive rencontre l'identité culturelle tunisienne.\n\nL'architecture s'inspire de trois éléments fondateurs du territoire :\n\n- la Méditerranée et le mouvement des vagues ;\n- la lumière blanche des villes côtières tunisiennes ;\n- le patrimoine géométrique et artisanal de la médina de Sousse.\n\nL'objectif : une architecture qui ne pourrait exister nulle part ailleurs qu'en Tunisie, tout en répondant aux standards internationaux des infrastructures olympiques contemporaines.",
+        "en": "The new Sousse Olympic Hall is designed as a contemporary icon of Mediterranean Tunisia. More than a sports facility, it becomes a national symbol where sporting excellence meets Tunisian cultural identity.\n\nThe architecture draws on three founding elements of the territory:\n\n- the Mediterranean and the movement of the waves;\n- the white light of Tunisia's coastal towns;\n- the geometric and craft heritage of the Sousse medina.\n\nThe aim: an architecture that could exist nowhere but in Tunisia, while meeting the international standards of contemporary Olympic facilities.",
+        "ar": "صُمّمت القاعة الأولمبية الجديدة بسوسة كأيقونة معاصرة لتونس المتوسطية. فهي أكثر من مجرد منشأة رياضية: إنها رمز وطني يلتقي فيه التميّز الرياضي بالهوية الثقافية التونسية.\n\nتستلهم العمارة ثلاثة عناصر مؤسِّسة للمكان:\n\n- البحر الأبيض المتوسط وحركة الأمواج؛\n- الضوء الأبيض للمدن الساحلية التونسية؛\n- الموروث الهندسي والحرفي لمدينة سوسة العتيقة.\n\nالهدف: عمارة لا يمكن أن توجد إلا في تونس، مع الاستجابة للمعايير الدولية للمنشآت الأولمبية المعاصرة."
       },
+      "categorie": "pub",
+      "images": [
+        "images2/o6.jpg",
+        "images2/o7.jpg",
+        "images2/o5.jpg",
+        "images2/o8.jpg",
+        "images2/o1.jpg",
+        "images/6.jpg",
+        "images/7.jpg",
+        "images/8.jpg",
+        "images/9.jpg",
+        "images/10.jpg",
+        "images/11.jpg",
+        "images2/o2.jpg",
+        "images2/o3.jpg"
+      ],
+      "id": "olympic"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2026,
       "facades_existantes": [],
       "avant_apres": [
         {
@@ -184,6 +195,24 @@
           "apres": "images2/n5b.jpg"
         }
       ],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "Étude et décoration",
+        "en": "Design study and interior design",
+        "ar": "الدراسة والديكور"
+      },
+      "resume": {
+        "fr": "Bois, pierre claire, végétal suspendu et lumière indirecte pour un lieu chaleureux, du comptoir à la salle.",
+        "en": "Wood, pale stone, hanging greenery and indirect light make a warm place, from the counter to the dining room.",
+        "ar": "الخشب والحجر الفاتح والنباتات المعلّقة والإضاءة غير المباشرة لفضاء دافئ، من الكونتوار إلى القاعة."
+      },
+      "surface": "350 m²",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
       "existant": [
         "images2/c2.jpg",
         "images2/c9.jpg",
@@ -195,62 +224,52 @@
         "images2/c0.jpg",
         "images2/c1.jpg",
         "images2/c4.jpg"
-      ]
-    },
-    {
-      "id": "ministry",
-      "titre": {
-        "fr": "Siège du Ministère de l'Industrie, de l'Énergie et des PME",
-        "en": "Headquarters of the Ministry of Industry, Energy and SMEs",
-        "ar": "مقر وزارة الصناعة والطاقة والمؤسسات الصغرى والمتوسطة"
-      },
-      "annee": 2010,
-      "annee_affichee": "",
-      "categorie": "bio",
-      "vedette": 3,
-      "lieu": {
-        "fr": "Montplaisir, Tunis",
-        "en": "Montplaisir, Tunis",
-        "ar": "مونبليزير، تونس"
-      },
-      "resume": {
-        "fr": "Avec l'agence Facila (Haidar Adel) : lumière naturelle, inertie thermique, ombrages étudiés, jardin, récupération des eaux de pluie et toitures végétalisées.",
-        "en": "With Facila agency (Haidar Adel): daylight, thermal mass, studied shading, a garden, rainwater recovery and green roofs.",
-        "ar": "بالتعاون مع مكتب فاسيلا (حيدر عادل): إضاءة طبيعية، عطالة حرارية، تظليل مدروس، حديقة، استرجاع مياه الأمطار وأسطح خضراء."
-      },
-      "images": [
-        "images2/125.jpg",
-        "images2/m1.jpg",
-        "images2/126.jpg",
-        "images2/127.jpg",
-        "images2/128.jpg"
       ],
       "maitre_ouvrage": {
-        "fr": "Ministère de l'Énergie",
-        "en": "Ministry of Energy",
-        "ar": "وزارة الطاقة"
+        "fr": "Privé",
+        "en": "Private client",
+        "ar": "خاص"
       },
-      "surface": "2 520 m²",
+      "titre": {
+        "fr": "Réaménagement d'un café-restaurant",
+        "en": "Café-restaurant redevelopment",
+        "ar": "إعادة تهيئة مقهى ومطعم"
+      },
       "statut": {
-        "fr": "Réalisé",
-        "en": "Built",
-        "ar": "منجز"
+        "fr": "Étude terminée",
+        "en": "Design completed",
+        "ar": "الدراسة منتهية"
       },
-      "mission": {
-        "fr": "Études",
-        "en": "Design studies",
-        "ar": "الدراسات"
-      },
+      "vedette": 2,
       "parti": {
-        "fr": "Concevoir un bâtiment qui place le confort de ses usagers au centre du projet, grâce à la végétation et aux plans d'eau.",
-        "en": "To design a building that puts the comfort of its users at the heart of the project, using vegetation and water features.",
-        "ar": "تصميم مبنى يضع راحة مستعمليه في صميم المشروع، بالاعتماد على الغطاء النباتي والمسطحات المائية."
+        "fr": "L'idée principale du projet : associer la décoration à la verdure, et offrir un maximum de lumière.\n\nLe projet garde l'esprit chaleureux du lieu, avec son plafond à caissons en bois et ses poteaux habillés, et le transforme en un espace lumineux et vivant : plantes suspendues, matériaux clairs et éclairage généreux, de la salle au comptoir.",
+        "en": "The main idea of the project: to combine the interior design with greenery, and to bring in as much light as possible.\n\nThe project keeps the warm character of the place, with its timber coffered ceiling and clad columns, and turns it into a bright, lively space: hanging plants, pale materials and generous lighting, from the dining room to the counter.",
+        "ar": "الفكرة الرئيسية للمشروع: الجمع بين الديكور والخضرة، وتوفير أقصى قدر من الإضاءة.\n\nيحافظ المشروع على الطابع الدافئ للمكان، بسقفه الخشبي المربّع وأعمدته المكسوّة، ويحوّله إلى فضاء مضيء ونابض بالحياة: نباتات معلّقة، مواد فاتحة وإضاءة سخيّة، من القاعة إلى الكونتوار."
       },
+      "categorie": "int",
+      "images": [
+        "images2/n3.jpg",
+        "images2/n6.jpg",
+        "images2/n1.jpg",
+        "images2/n4.jpg",
+        "images2/n5a.jpg",
+        "images2/n5b.jpg",
+        "images2/n5c.jpg",
+        "images2/n2.jpg",
+        "images/3.jpg",
+        "images/5.jpg"
+      ],
+      "id": "cafe26"
+    },
+    {
       "bioclimatique": {
         "fr": "## Ventilation\n\n- Des ouvertures prévues pour assurer une ventilation directe des espaces.\n\n## Végétation\n\n- Des arbres à feuilles caduques près du bâtiment : ils donnent de l'ombre en été et laissent passer la lumière en hiver.\n\n## Plans d'eau\n\n- L'eau atténue la température. Placés dans la direction du vent dominant, les plans d'eau rafraîchissent l'air qui entre dans le bâtiment et abaissent la température intérieure.\n\n## Performance\n\n- Étude énergétique : bâtiment classé Label 2, avec une consommation annuelle de 77 kWh/m².",
         "en": "## Ventilation\n\n- Openings designed to provide direct ventilation of the spaces.\n\n## Vegetation\n\n- Deciduous trees close to the building: shade in summer, light in winter.\n\n## Water features\n\n- Water moderates temperature. Placed in the direction of the prevailing wind, the pools cool the air entering the building and lower the indoor temperature.\n\n## Performance\n\n- Energy study: building rated Label 2, with an annual consumption of 77 kWh/m².",
         "ar": "## التهوئة\n\n- فتحات مبرمجة لضمان تهوئة مباشرة للفضاءات.\n\n## الغطاء النباتي\n\n- أشجار متساقطة الأوراق قرب المبنى: توفّر الظل صيفا وتسمح بمرور الضوء شتاء.\n\n## المسطحات المائية\n\n- يخفّف الماء من درجة الحرارة. وعند وضعها في اتجاه الرياح السائدة، تلطّف المسطحات المائية الهواء الداخل إلى المبنى وتخفض الحرارة الداخلية.\n\n## الأداء\n\n- الدراسة الطاقية: مبنى مصنّف في الصنف 2، باستهلاك سنوي قدره 77 كيلوواط ساعة/م²."
       },
+      "annee": 2010,
+      "facades_existantes": [],
+      "avant_apres": [],
       "plans": [
         {
           "image": "images2/m2.jpg",
@@ -261,62 +280,64 @@
           }
         }
       ],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "hergla",
-      "titre": {
-        "fr": "Résidence Hergla Diamond (R+4)",
-        "en": "Hergla Diamond residence (G+4)",
-        "ar": "إقامة هرقلة دايموند (ط+4)"
-      },
-      "annee": 2010,
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 4,
-      "lieu": {
-        "fr": "Hergla",
-        "en": "Hergla",
-        "ar": "هرقلة"
+      "mission": {
+        "fr": "Études",
+        "en": "Design studies",
+        "ar": "الدراسات"
       },
       "resume": {
-        "fr": "Une architecture organique qui reprend le vocabulaire de Hergla : arcades, pergolas et jeu de pleins et de vides dans la lumière.",
-        "en": "Organic architecture drawing on Hergla's own vocabulary: arcades, pergolas and a play of solid and void in the light.",
-        "ar": "عمارة عضوية تستلهم مفردات هرقلة: الأقواس والعرائش ولعبة الامتلاء والفراغ تحت الضوء."
+        "fr": "Avec l'agence Facila (Haidar Adel) : lumière naturelle, inertie thermique, ombrages étudiés, jardin, récupération des eaux de pluie et toitures végétalisées.",
+        "en": "With Facila agency (Haidar Adel): daylight, thermal mass, studied shading, a garden, rainwater recovery and green roofs.",
+        "ar": "بالتعاون مع مكتب فاسيلا (حيدر عادل): إضاءة طبيعية، عطالة حرارية، تظليل مدروس، حديقة، استرجاع مياه الأمطار وأسطح خضراء."
       },
-      "images": [
-        "images2/124.jpg",
-        "images2/123.jpg",
-        "images2/122.jpg"
-      ],
+      "surface": "2 520 m²",
+      "lieu": {
+        "fr": "Montplaisir, Tunis",
+        "en": "Montplaisir, Tunis",
+        "ar": "مونبليزير، تونس"
+      },
+      "existant": [],
       "maitre_ouvrage": {
-        "fr": "Promotion Immobilière VIP",
-        "en": "Promotion Immobilière VIP",
-        "ar": "Promotion Immobilière VIP"
+        "fr": "Ministère de l'Énergie",
+        "en": "Ministry of Energy",
+        "ar": "وزارة الطاقة"
       },
-      "surface": "11 125 m²",
+      "titre": {
+        "fr": "Siège du Ministère de l'Industrie, de l'Énergie et des PME",
+        "en": "Headquarters of the Ministry of Industry, Energy and SMEs",
+        "ar": "مقر وزارة الصناعة والطاقة والمؤسسات الصغرى والمتوسطة"
+      },
       "statut": {
-        "fr": "Projet terminé",
-        "en": "Completed project",
-        "ar": "مشروع منجز"
+        "fr": "Réalisé",
+        "en": "Built",
+        "ar": "منجز"
       },
-      "mission": {
-        "fr": "Étude et dossier de permis de bâtir",
-        "en": "Design study and building permit application",
-        "ar": "الدراسة وملف رخصة البناء"
-      },
+      "vedette": 3,
       "parti": {
-        "fr": "La fonction du projet suggère un large éventail d'activités : résidentielles, de loisirs et de divertissement. L'architecture organique est à l'origine de son expression, par la plastique de certaines parties de l'enveloppe extérieure, mais aussi par le rythme de sa structure et de sa volumétrie, afin de s'intégrer dans l'environnement et la nature de Hergla.\n\nLa forme de base du projet s'inspire d'un grand poisson, sur lequel se développent plusieurs volumes : c'est l'un des concepts principaux du projet.",
-        "en": "The programme calls for a wide range of activities: residential, leisure and entertainment. Organic architecture drives its expression, through the sculptural form of parts of the outer envelope and the rhythm of its structure and massing, so that it blends into the setting and nature of Hergla.\n\nThe basic form of the project is inspired by a large fish, on which several volumes unfold: this is one of the project's main concepts.",
-        "ar": "تقتضي وظيفة المشروع طيفا واسعا من الأنشطة: السكن والترفيه والتنشيط. وتنبع العمارة العضوية من تعبيره المعماري، من خلال تشكيل بعض أجزاء غلافه الخارجي، وكذلك من خلال إيقاع هيكله وكتله، حتى يندمج في محيط هرقلة وطبيعتها.\n\nيستلهم الشكل الأساسي للمشروع هيئة سمكة كبيرة تتطوّر فوقها عدّة كتل: وهذا أحد المفاهيم الرئيسية للمشروع."
+        "fr": "Concevoir un bâtiment qui place le confort de ses usagers au centre du projet, grâce à la végétation et aux plans d'eau.",
+        "en": "To design a building that puts the comfort of its users at the heart of the project, using vegetation and water features.",
+        "ar": "تصميم مبنى يضع راحة مستعمليه في صميم المشروع، بالاعتماد على الغطاء النباتي والمسطحات المائية."
       },
+      "categorie": "bio",
+      "images": [
+        "images2/125.jpg",
+        "images2/m1.jpg",
+        "images2/126.jpg",
+        "images2/127.jpg",
+        "images2/128.jpg"
+      ],
+      "id": "ministry"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "annee": 2010,
+      "facades_existantes": [],
+      "avant_apres": [],
       "plans": [
         {
           "image": "images2/h1.jpg",
@@ -351,31 +372,103 @@
           }
         }
       ],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
+      "annee_affichee": "",
+      "mission": {
+        "fr": "Étude et dossier de permis de bâtir",
+        "en": "Design study and building permit application",
+        "ar": "الدراسة وملف رخصة البناء"
+      },
+      "resume": {
+        "fr": "Une architecture organique qui reprend le vocabulaire de Hergla : arcades, pergolas et jeu de pleins et de vides dans la lumière.",
+        "en": "Organic architecture drawing on Hergla's own vocabulary: arcades, pergolas and a play of solid and void in the light.",
+        "ar": "عمارة عضوية تستلهم مفردات هرقلة: الأقواس والعرائش ولعبة الامتلاء والفراغ تحت الضوء."
+      },
+      "surface": "11 125 m²",
+      "lieu": {
+        "fr": "Hergla",
+        "en": "Hergla",
+        "ar": "هرقلة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "Promotion Immobilière VIP",
+        "en": "Promotion Immobilière VIP",
+        "ar": "Promotion Immobilière VIP"
+      },
+      "titre": {
+        "fr": "Résidence Hergla Diamond (R+4)",
+        "en": "Hergla Diamond residence (G+4)",
+        "ar": "إقامة هرقلة دايموند (ط+4)"
+      },
+      "statut": {
+        "fr": "Projet terminé",
+        "en": "Completed project",
+        "ar": "مشروع منجز"
+      },
+      "vedette": 4,
+      "parti": {
+        "fr": "La fonction du projet suggère un large éventail d'activités : résidentielles, de loisirs et de divertissement. L'architecture organique est à l'origine de son expression, par la plastique de certaines parties de l'enveloppe extérieure, mais aussi par le rythme de sa structure et de sa volumétrie, afin de s'intégrer dans l'environnement et la nature de Hergla.\n\nLa forme de base du projet s'inspire d'un grand poisson, sur lequel se développent plusieurs volumes : c'est l'un des concepts principaux du projet.",
+        "en": "The programme calls for a wide range of activities: residential, leisure and entertainment. Organic architecture drives its expression, through the sculptural form of parts of the outer envelope and the rhythm of its structure and massing, so that it blends into the setting and nature of Hergla.\n\nThe basic form of the project is inspired by a large fish, on which several volumes unfold: this is one of the project's main concepts.",
+        "ar": "تقتضي وظيفة المشروع طيفا واسعا من الأنشطة: السكن والترفيه والتنشيط. وتنبع العمارة العضوية من تعبيره المعماري، من خلال تشكيل بعض أجزاء غلافه الخارجي، وكذلك من خلال إيقاع هيكله وكتله، حتى يندمج في محيط هرقلة وطبيعتها.\n\nيستلهم الشكل الأساسي للمشروع هيئة سمكة كبيرة تتطوّر فوقها عدّة كتل: وهذا أحد المفاهيم الرئيسية للمشروع."
+      },
+      "categorie": "hab",
+      "images": [
+        "images2/124.jpg",
+        "images2/123.jpg",
+        "images2/122.jpg"
+      ],
+      "id": "hergla"
     },
     {
-      "id": "culture24",
-      "titre": {
-        "fr": "Espace culturel",
-        "en": "Cultural space",
-        "ar": "فضاء ثقافي"
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "annee": 2025,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 5,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "Dossier d'exécution",
+        "en": "Construction documents",
+        "ar": "ملف التنفيذ"
       },
       "resume": {
         "fr": "Un bâtiment sur plusieurs niveaux, avec terrasses plantées, façades végétalisées et panneaux solaires en toiture.",
         "en": "A multi-storey building with planted terraces, green façades and rooftop solar panels.",
         "ar": "مبنى متعدد الطوابق بشرفات مزروعة وواجهات خضراء وألواح شمسية على السطح."
       },
+      "surface": "1 150 m²",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "Privé",
+        "en": "Private client",
+        "ar": "خاص"
+      },
+      "titre": {
+        "fr": "Espace culturel",
+        "en": "Cultural space",
+        "ar": "فضاء ثقافي"
+      },
+      "statut": {
+        "fr": "Réalisé",
+        "en": "Built",
+        "ar": "منجز"
+      },
+      "vedette": 5,
+      "parti": {
+        "fr": "L'idée principale du projet : associer la culture et la lecture à un lieu de vie et de joie.\n\nLa façade en est le manifeste : un grand mur-rideau vitré d'où s'échappent les pages d'un livre ouvert et des lettres arabes dorées, comme si la lecture débordait du bâtiment vers la ville. Les balcons fleuris, les plantes grimpantes et la terrasse sous pergola prolongent cette idée d'un lieu vivant et accueillant.",
+        "en": "The main idea of the project: to bring culture and reading together with a place of life and joy.\n\nThe façade is its manifesto: a large glazed curtain wall from which the pages of an open book and golden Arabic letters escape, as if reading were spilling out of the building into the city. Flower-filled balconies, climbing plants and a roof terrace under a pergola extend the idea of a lively, welcoming place.",
+        "ar": "الفكرة الرئيسية للمشروع: الجمع بين الثقافة والمطالعة وفضاء للحياة والفرح.\n\nوالواجهة هي بيانه: جدار زجاجي كبير تتطاير منه صفحات كتاب مفتوح وحروف عربية ذهبية، وكأن المطالعة تفيض من المبنى نحو المدينة. وتمتدّ هذه الفكرة عبر الشرفات المزهرة والنباتات المتسلقة والسطح تحت العريشة، لتجعل منه فضاء نابضا بالحياة ومرحّبا."
+      },
+      "categorie": "pub",
       "images": [
         "images2/w0.jpg",
         "images2/w2.jpg",
@@ -388,336 +481,336 @@
         "images/21.jpg",
         "images/22.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "Privé",
-        "en": "Private client",
-        "ar": "خاص"
-      },
-      "surface": "1 150 m²",
-      "statut": {
-        "fr": "Réalisé",
-        "en": "Built",
-        "ar": "منجز"
-      },
-      "mission": {
-        "fr": "Dossier d'exécution",
-        "en": "Construction documents",
-        "ar": "ملف التنفيذ"
-      },
-      "parti": {
-        "fr": "L'idée principale du projet : associer la culture et la lecture à un lieu de vie et de joie.\n\nLa façade en est le manifeste : un grand mur-rideau vitré d'où s'échappent les pages d'un livre ouvert et des lettres arabes dorées, comme si la lecture débordait du bâtiment vers la ville. Les balcons fleuris, les plantes grimpantes et la terrasse sous pergola prolongent cette idée d'un lieu vivant et accueillant.",
-        "en": "The main idea of the project: to bring culture and reading together with a place of life and joy.\n\nThe façade is its manifesto: a large glazed curtain wall from which the pages of an open book and golden Arabic letters escape, as if reading were spilling out of the building into the city. Flower-filled balconies, climbing plants and a roof terrace under a pergola extend the idea of a lively, welcoming place.",
-        "ar": "الفكرة الرئيسية للمشروع: الجمع بين الثقافة والمطالعة وفضاء للحياة والفرح.\n\nوالواجهة هي بيانه: جدار زجاجي كبير تتطاير منه صفحات كتاب مفتوح وحروف عربية ذهبية، وكأن المطالعة تفيض من المبنى نحو المدينة. وتمتدّ هذه الفكرة عبر الشرفات المزهرة والنباتات المتسلقة والسطح تحت العريشة، لتجعل منه فضاء نابضا بالحياة ومرحّبا."
-      },
+      "id": "culture24"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2023,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "kalaa",
-      "titre": {
-        "fr": "Villa à Kalâa Kebira",
-        "en": "Villa in Kalaa Kebira",
-        "ar": "فيلا بالقلعة الكبرى"
-      },
-      "annee": 2023,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 6,
-      "lieu": {
-        "fr": "Kalâa Kebira, Sousse",
-        "en": "Kalaa Kebira, Sousse",
-        "ar": "القلعة الكبرى، سوسة"
+      "mission": {
+        "fr": "Permis de bâtir, dossier d'exécution et suivi de chantier",
+        "en": "Building permit, construction documents and site supervision",
+        "ar": "رخصة البناء وملف التنفيذ ومتابعة الحضيرة"
       },
       "resume": {
         "fr": "Une maison familiale avec piscine, larges débords de toiture et volumes enduits aux teintes de sable.",
         "en": "A family house with a pool, deep roof overhangs and sand-toned rendered volumes.",
         "ar": "منزل عائلي بمسبح وأسقف بارزة وكتل مطلية بألوان رملية."
       },
-      "images": [
-        "images2/k2.jpg",
-        "images2/k1.jpg",
-        "images2/k3.jpg"
-      ],
+      "surface": "350 m²",
+      "lieu": {
+        "fr": "Kalâa Kebira, Sousse",
+        "en": "Kalaa Kebira, Sousse",
+        "ar": "القلعة الكبرى، سوسة"
+      },
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "Privé",
         "en": "Private client",
         "ar": "خاص"
       },
-      "surface": "350 m²",
+      "titre": {
+        "fr": "Villa à Kalâa Kebira",
+        "en": "Villa in Kalaa Kebira",
+        "ar": "فيلا بالقلعة الكبرى"
+      },
       "statut": {
         "fr": "Réalisé",
         "en": "Built",
         "ar": "منجز"
       },
-      "mission": {
-        "fr": "Permis de bâtir, dossier d'exécution et suivi de chantier",
-        "en": "Building permit, construction documents and site supervision",
-        "ar": "رخصة البناء وملف التنفيذ ومتابعة الحضيرة"
-      },
+      "vedette": 6,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "hab",
+      "images": [
+        "images2/k2.jpg",
+        "images2/k1.jpg",
+        "images2/k3.jpg"
+      ],
+      "id": "kalaa"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2025,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "darammar",
-      "titre": {
-        "fr": "Toboggans aquatiques, Hôtel Dar Ammar",
-        "en": "Water slides, Hotel Dar Ammar",
-        "ar": "زحاليق مائية، نزل دار عمار"
-      },
-      "annee": 2025,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "loi",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "El Jem",
         "en": "El Jem",
         "ar": "الجم"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/17.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Toboggans aquatiques, Hôtel Dar Ammar",
+        "en": "Water slides, Hotel Dar Ammar",
+        "ar": "زحاليق مائية، نزل دار عمار"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "loi",
+      "images": [
+        "images/17.jpg"
+      ],
+      "id": "darammar"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2024,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "fatimi",
-      "titre": {
-        "fr": "Toboggans aquatiques, Hôtel El Fatimi",
-        "en": "Water slides, Hotel El Fatimi",
-        "ar": "زحاليق مائية، نزل الفاطمي"
-      },
-      "annee": 2024,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "loi",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Mahdia",
         "en": "Mahdia",
         "ar": "المهدية"
       },
-      "resume": {
+      "existant": [],
+      "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "titre": {
+        "fr": "Toboggans aquatiques, Hôtel El Fatimi",
+        "en": "Water slides, Hotel El Fatimi",
+        "ar": "زحاليق مائية، نزل الفاطمي"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "loi",
       "images": [
         "images/14.jpg",
         "images/15.jpg",
         "images/16.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "fatimi"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2023,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "kitchen",
-      "titre": {
-        "fr": "Conception d'une cuisine",
-        "en": "Kitchen design",
-        "ar": "تصميم مطبخ"
-      },
-      "annee": 2023,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Sousse",
         "en": "Sousse",
         "ar": "سوسة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/24.jpg",
-        "images/25.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Conception d'une cuisine",
+        "en": "Kitchen design",
+        "ar": "تصميم مطبخ"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "int",
+      "images": [
+        "images/24.jpg",
+        "images/25.jpg"
+      ],
+      "id": "kitchen"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2023,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "omrane",
-      "titre": {
-        "fr": "Villa à Omrane",
-        "en": "Villa in Omrane",
-        "ar": "فيلا بالعمران"
-      },
-      "annee": 2023,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Omrane",
         "en": "Omrane",
         "ar": "العمران"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Villa à Omrane",
+        "en": "Villa in Omrane",
+        "ar": "فيلا بالعمران"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "hab",
+      "images": [],
+      "id": "omrane"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2022,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "kantaoui",
-      "titre": {
-        "fr": "Villa à El Kantaoui",
-        "en": "Villa in El Kantaoui",
-        "ar": "فيلا بالقنطاوي"
-      },
-      "annee": 2022,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
-      "lieu": {
-        "fr": "El Kantaoui",
-        "en": "El Kantaoui",
-        "ar": "القنطاوي"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "El Kantaoui",
+        "en": "El Kantaoui",
+        "ar": "القنطاوي"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Villa à El Kantaoui",
+        "en": "Villa in El Kantaoui",
+        "ar": "فيلا بالقنطاوي"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/35.jpg",
         "images/31.jpg",
@@ -725,106 +818,77 @@
         "images/33.jpg",
         "images/34.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "kantaoui"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2021,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "munic",
-      "titre": {
-        "fr": "Concours de la Municipalité de Sousse",
-        "en": "Sousse Municipality competition",
-        "ar": "مسابقة بلدية سوسة"
-      },
-      "annee": 2021,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Sousse",
         "en": "Sousse",
         "ar": "سوسة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/36.jpg",
-        "images/37.jpg",
-        "images/38.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Concours de la Municipalité de Sousse",
+        "en": "Sousse Municipality competition",
+        "ar": "مسابقة بلدية سوسة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "pub",
+      "images": [
+        "images/36.jpg",
+        "images/37.jpg",
+        "images/38.jpg"
+      ],
+      "id": "munic"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2020,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "villa20",
-      "titre": {
-        "fr": "Villa avec piscine",
-        "en": "Villa with pool",
-        "ar": "فيلا بمسبح"
-      },
-      "annee": 2020,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
-      "lieu": {
+      "mission": {
         "fr": "",
         "en": "",
         "ar": ""
@@ -834,6 +898,35 @@
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Villa avec piscine",
+        "en": "Villa with pool",
+        "ar": "فيلا بمسبح"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/44.jpg",
         "images/39.jpg",
@@ -842,58 +935,58 @@
         "images/42.jpg",
         "images/43.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "villa20"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "office1",
-      "titre": {
-        "fr": "Aménagement de bureaux",
-        "en": "Office fit-out",
-        "ar": "تهيئة مكاتب"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Hammam Sousse",
-        "en": "Hammam Sousse",
-        "ar": "حمام سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Hammam Sousse",
+        "en": "Hammam Sousse",
+        "ar": "حمام سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Aménagement de bureaux",
+        "en": "Office fit-out",
+        "ar": "تهيئة مكاتب"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/45.jpg",
         "images/46.jpg",
@@ -902,116 +995,116 @@
         "images/49.jpg",
         "images/50.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "office1"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "office2",
-      "titre": {
-        "fr": "Aménagement de bureaux",
-        "en": "Office fit-out",
-        "ar": "تهيئة مكاتب"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Hammam Sousse",
-        "en": "Hammam Sousse",
-        "ar": "حمام سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Hammam Sousse",
+        "en": "Hammam Sousse",
+        "ar": "حمام سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Aménagement de bureaux",
+        "en": "Office fit-out",
+        "ar": "تهيئة مكاتب"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/65.jpg",
         "images/66.jpg",
         "images/67.jpg",
         "images/68.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "office2"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "cafe19",
-      "titre": {
-        "fr": "Décoration d'un café",
-        "en": "Café interior",
-        "ar": "تصميم داخلي لمقهى"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Décoration d'un café",
+        "en": "Café interior",
+        "ar": "تصميم داخلي لمقهى"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/51.jpg",
         "images/52.jpg",
@@ -1020,228 +1113,228 @@
         "images/55.jpg",
         "images/56.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "cafe19"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "r2",
-      "titre": {
-        "fr": "Deux immeubles R+2",
-        "en": "Two G+2 buildings",
-        "ar": "عمارتان ط+2"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Deux immeubles R+2",
+        "en": "Two G+2 buildings",
+        "ar": "عمارتان ط+2"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/57.jpg",
         "images/58.jpg",
         "images/59.jpg",
         "images/60.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "r2"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "menzel",
-      "titre": {
-        "fr": "Collège, concours",
-        "en": "Middle school, competition",
-        "ar": "مدرسة إعدادية، مسابقة"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Menzel Hayet",
         "en": "Menzel Hayet",
         "ar": "منزل حياة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/61.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Collège, concours",
+        "en": "Middle school, competition",
+        "ar": "مدرسة إعدادية، مسابقة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "pub",
+      "images": [
+        "images/61.jpg"
+      ],
+      "id": "menzel"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2019,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "jemmal",
-      "titre": {
-        "fr": "Centre culturel, concours",
-        "en": "Cultural centre, competition",
-        "ar": "مركز ثقافي، مسابقة"
-      },
-      "annee": 2019,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Jemmal",
         "en": "Jemmal",
         "ar": "جمال"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/62.jpg",
-        "images/63.jpg",
-        "images/64.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Centre culturel, concours",
+        "en": "Cultural centre, competition",
+        "ar": "مركز ثقافي، مسابقة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "pub",
+      "images": [
+        "images/62.jpg",
+        "images/63.jpg",
+        "images/64.jpg"
+      ],
+      "id": "jemmal"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2018,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "interior18",
-      "titre": {
-        "fr": "Architecture intérieure d'une maison",
-        "en": "House interior",
-        "ar": "تصميم داخلي لمنزل"
-      },
-      "annee": 2018,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Architecture intérieure d'une maison",
+        "en": "House interior",
+        "ar": "تصميم داخلي لمنزل"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/76.jpg",
         "images/72.jpg",
@@ -1250,949 +1343,976 @@
         "images/75.jpg",
         "images/77.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "interior18"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2018,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "house18",
-      "titre": {
-        "fr": "Maison individuelle",
-        "en": "Family house",
-        "ar": "منزل فردي"
-      },
-      "annee": 2018,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Maison individuelle",
+        "en": "Family house",
+        "ar": "منزل فردي"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/78.jpg",
         "images/79.jpg",
         "images/80.jpg",
         "images/81.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "house18"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2018,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "touza",
-      "titre": {
-        "fr": "Lycée, concours",
-        "en": "High school, competition",
-        "ar": "معهد ثانوي، مسابقة"
-      },
-      "annee": 2018,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Touza",
-        "en": "Touza",
-        "ar": "طوزة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Touza",
+        "en": "Touza",
+        "ar": "طوزة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Lycée, concours",
+        "en": "High school, competition",
+        "ar": "معهد ثانوي، مسابقة"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "pub",
       "images": [
         "images/82.jpg",
         "images/83.jpg",
         "images/86.jpg",
         "images/87.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "touza"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2017,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "chatt1",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Chott Meriem",
+        "en": "Chott Meriem",
+        "ar": "شط مريم"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Décoration d'une maison",
         "en": "House decoration",
         "ar": "تزيين منزل"
       },
-      "annee": 2017,
-      "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Chott Meriem",
-        "en": "Chott Meriem",
-        "ar": "شط مريم"
-      },
-      "resume": {
+      "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/88.jpg",
         "images/89.jpg",
         "images/90.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "chatt1"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2017,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "chatt2",
-      "titre": {
-        "fr": "Décoration d'un appartement",
-        "en": "Apartment interior",
-        "ar": "تصميم داخلي لشقة"
-      },
-      "annee": 2017,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Chott Meriem",
-        "en": "Chott Meriem",
-        "ar": "شط مريم"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Chott Meriem",
+        "en": "Chott Meriem",
+        "ar": "شط مريم"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Décoration d'un appartement",
+        "en": "Apartment interior",
+        "ar": "تصميم داخلي لشقة"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "int",
       "images": [
         "images/94.jpg",
         "images/95.jpg",
         "images/96.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "chatt2"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2017,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "benarous",
-      "titre": {
-        "fr": "Décoration d'un appartement",
-        "en": "Apartment interior",
-        "ar": "تصميم داخلي لشقة"
-      },
-      "annee": 2017,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Ben Arous",
         "en": "Ben Arous",
         "ar": "بن عروس"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Décoration d'un appartement",
+        "en": "Apartment interior",
+        "ar": "تصميم داخلي لشقة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "int",
+      "images": [],
+      "id": "benarous"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2017,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "chatt3",
-      "titre": {
-        "fr": "Immeuble R+3",
-        "en": "G+3 building",
-        "ar": "عمارة ط+3"
-      },
-      "annee": 2017,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Chott Meriem",
         "en": "Chott Meriem",
         "ar": "شط مريم"
       },
-      "resume": {
+      "existant": [],
+      "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "titre": {
+        "fr": "Immeuble R+3",
+        "en": "G+3 building",
+        "ar": "عمارة ط+3"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/97.jpg",
         "images/98.jpg",
         "images/99.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "chatt3"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2016,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "mahres",
-      "titre": {
-        "fr": "Maison individuelle",
-        "en": "Family house",
-        "ar": "منزل فردي"
-      },
-      "annee": 2016,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Mahrès",
         "en": "Mahres",
         "ar": "المحرس"
       },
-      "resume": {
+      "existant": [],
+      "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "titre": {
+        "fr": "Maison individuelle",
+        "en": "Family house",
+        "ar": "منزل فردي"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/100.jpg",
         "images/101.jpg",
         "images/102.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "mahres"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2016,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "villa16",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Villa",
         "en": "Villa",
         "ar": "فيلا"
       },
-      "annee": 2016,
-      "annee_affichee": "",
-      "categorie": "hab",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
-      },
-      "resume": {
+      "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
       "images": [
         "images/105.jpg",
         "images/106.jpg",
         "images/107.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "villa16"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2016,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "enfidha",
-      "titre": {
-        "fr": "Extension et réaménagement d'une usine",
-        "en": "Factory extension and redevelopment",
-        "ar": "توسعة وإعادة تهيئة مصنع"
-      },
-      "annee": 2016,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "eco",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Enfidha",
         "en": "Enfidha",
         "ar": "النفيضة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/103.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Extension et réaménagement d'une usine",
+        "en": "Factory extension and redevelopment",
+        "ar": "توسعة وإعادة تهيئة مصنع"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "eco",
+      "images": [
+        "images/103.jpg"
+      ],
+      "id": "enfidha"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2016,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "bakery",
-      "titre": {
-        "fr": "Boulangerie-pâtisserie",
-        "en": "Bakery and patisserie",
-        "ar": "مخبزة ومرطبات"
-      },
-      "annee": 2016,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "int",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Sahloul, Sousse",
         "en": "Sahloul, Sousse",
         "ar": "سهلول، سوسة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images/104.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Boulangerie-pâtisserie",
+        "en": "Bakery and patisserie",
+        "ar": "مخبزة ومرطبات"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "int",
+      "images": [
+        "images/104.jpg"
+      ],
+      "id": "bakery"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2016,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "market16",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Extension du marché de gros",
         "en": "Wholesale market extension",
         "ar": "توسعة سوق الجملة"
       },
-      "annee": 2016,
-      "annee_affichee": "",
-      "categorie": "eco",
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "eco",
+      "images": [
+        "images/108.jpg"
+      ],
+      "id": "market16"
+    },
+    {
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "annee": 2015,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "images": [
-        "images/108.jpg"
-      ],
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "bank",
       "titre": {
         "fr": "Réorganisation d'une agence bancaire",
         "en": "Bank branch reorganisation",
         "ar": "إعادة تنظيم وكالة بنكية"
       },
-      "annee": 2015,
-      "annee_affichee": "",
-      "categorie": "eco",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
-      },
-      "resume": {
+      "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "eco",
       "images": [
         "images/110.jpg",
         "images/109.jpg",
         "images2/111.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "bank"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2015,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "r5",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Immeuble R+5",
         "en": "G+5 building",
         "ar": "عمارة ط+5"
       },
-      "annee": 2015,
-      "annee_affichee": "",
-      "categorie": "hab",
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "hab",
+      "images": [
+        "images2/112.jpg"
+      ],
+      "id": "r5"
+    },
+    {
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "annee": 2014,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "images": [
-        "images2/112.jpg"
-      ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
       "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "kroussia",
-      "titre": {
-        "fr": "Centre des petits métiers",
-        "en": "Small crafts centre",
-        "ar": "مركز الحرف الصغرى"
-      },
-      "annee": 2014,
-      "annee_affichee": "",
-      "categorie": "eco",
-      "vedette": 0,
       "lieu": {
         "fr": "Kroussia, Msaken",
         "en": "Kroussia, Msaken",
         "ar": "الكروسية، مساكن"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/113.jpg",
-        "images2/114.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Centre des petits métiers",
+        "en": "Small crafts centre",
+        "ar": "مركز الحرف الصغرى"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "eco",
+      "images": [
+        "images2/113.jpg",
+        "images2/114.jpg"
+      ],
+      "id": "kroussia"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2013,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "market13",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Réaménagement et extension du marché de gros",
         "en": "Wholesale market redevelopment and extension",
         "ar": "إعادة تهيئة وتوسعة سوق الجملة"
       },
-      "annee": 2013,
-      "annee_affichee": "",
-      "categorie": "eco",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
-      },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/115.jpg"
-      ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "eco",
+      "images": [
+        "images2/115.jpg"
+      ],
+      "id": "market13"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2012,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "resto",
-      "titre": {
-        "fr": "Restaurant universitaire, concours",
-        "en": "University restaurant, competition",
-        "ar": "مطعم جامعي، مسابقة"
-      },
-      "annee": 2012,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
-      "lieu": {
-        "fr": "Sousse",
-        "en": "Sousse",
-        "ar": "سوسة"
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "Sousse",
+        "en": "Sousse",
+        "ar": "سوسة"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Restaurant universitaire, concours",
+        "en": "University restaurant, competition",
+        "ar": "مطعم جامعي، مسابقة"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "pub",
       "images": [
         "images2/121.jpg",
         "images2/119.jpg",
         "images2/120.jpg",
         "images2/118.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "resto"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2012,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "sndp",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Relevé et mise à jour des plans du siège de la SNDP",
         "en": "Survey and update of the SNDP headquarters drawings",
         "ar": "رفع وتحيين مخططات مقر الشركة الوطنية لتوزيع البترول"
       },
-      "annee": 2012,
-      "annee_affichee": "",
-      "categorie": "eco",
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "vedette": 0,
-      "lieu": {
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "eco",
+      "images": [
+        "images2/117.jpg",
+        "images2/116.jpg"
+      ],
+      "id": "sndp"
+    },
+    {
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "annee": 2008,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
         "fr": "",
         "en": "",
         "ar": ""
@@ -2202,327 +2322,271 @@
         "en": "",
         "ar": ""
       },
-      "images": [
-        "images2/117.jpg",
-        "images2/116.jpg"
-      ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
       "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "stabio",
-      "titre": {
-        "fr": "Complexe de bureaux, concours",
-        "en": "Office complex, competition",
-        "ar": "مركب مكاتب، مسابقة"
-      },
-      "annee": 2008,
-      "annee_affichee": "",
-      "categorie": "bio",
-      "vedette": 0,
       "lieu": {
         "fr": "Stabio, Suisse",
         "en": "Stabio, Switzerland",
         "ar": "ستابيو، سويسرا"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Complexe de bureaux, concours",
+        "en": "Office complex, competition",
+        "ar": "مركب مكاتب، مسابقة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "bio",
+      "images": [],
+      "id": "stabio"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2008,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "tricase",
-      "titre": {
-        "fr": "30 maisons bioclimatiques, concours",
-        "en": "30 bioclimatic houses, competition",
-        "ar": "30 منزلا بيومناخيا، مسابقة"
-      },
-      "annee": 2008,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "bio",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Tricase, Italie",
         "en": "Tricase, Italy",
         "ar": "تريكازي، إيطاليا"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/129.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "30 maisons bioclimatiques, concours",
+        "en": "30 bioclimatic houses, competition",
+        "ar": "30 منزلا بيومناخيا، مسابقة"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "bio",
+      "images": [
+        "images2/129.jpg"
+      ],
+      "id": "tricase"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2008,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "sesto",
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
+      "lieu": {
+        "fr": "Sesto Fiorentino, Italie",
+        "en": "Sesto Fiorentino, Italy",
+        "ar": "سيستو فيورنتينو، إيطاليا"
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "titre": {
         "fr": "Étude d'éclairage naturel et artificiel (Relux)",
         "en": "Lighting study (Relux)",
         "ar": "دراسة إضاءة (Relux)"
       },
-      "annee": 2008,
-      "annee_affichee": "",
-      "categorie": "bio",
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "vedette": 0,
-      "lieu": {
-        "fr": "Sesto Fiorentino, Italie",
-        "en": "Sesto Fiorentino, Italy",
-        "ar": "سيستو فيورنتينو، إيطاليا"
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "bio",
+      "images": [
+        "images2/131.jpg",
+        "images2/132.jpg"
+      ],
+      "id": "sesto"
+    },
+    {
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "annee": 2008,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "images": [
-        "images2/131.jpg",
-        "images2/132.jpg"
-      ],
+      "surface": "",
+      "lieu": {
+        "fr": "Sesto Fiorentino, Italie",
+        "en": "Sesto Fiorentino, Italy",
+        "ar": "سيستو فيورنتينو، إيطاليا"
+      },
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "pv",
       "titre": {
         "fr": "Intégration photovoltaïque de 20 kWc",
         "en": "20 kWp photovoltaic integration",
         "ar": "إدماج منظومة فولطاضوئية بقدرة 20 كيلوواط ذروة"
       },
-      "annee": 2008,
-      "annee_affichee": "",
-      "categorie": "bio",
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
       "vedette": 0,
-      "lieu": {
-        "fr": "Sesto Fiorentino, Italie",
-        "en": "Sesto Fiorentino, Italy",
-        "ar": "سيستو فيورنتينو، إيطاليا"
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "bio",
+      "images": [
+        "images2/133.jpg"
+      ],
+      "id": "pv"
+    },
+    {
+      "bioclimatique": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "annee": 2008,
+      "facades_existantes": [],
+      "avant_apres": [],
+      "plans": [],
+      "annee_affichee": "",
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
       },
       "resume": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "images": [
-        "images2/133.jpg"
-      ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
       "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "fucecchio",
-      "titre": {
-        "fr": "Rénovation de deux places",
-        "en": "Renovation of two squares",
-        "ar": "تجديد ساحتين"
-      },
-      "annee": 2008,
-      "annee_affichee": "",
-      "categorie": "bio",
-      "vedette": 0,
       "lieu": {
         "fr": "Fucecchio, Italie",
         "en": "Fucecchio, Italy",
         "ar": "فوتشيكيو، إيطاليا"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/130.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Rénovation de deux places",
+        "en": "Renovation of two squares",
+        "ar": "تجديد ساحتين"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "bio",
+      "images": [
+        "images2/130.jpg"
+      ],
+      "id": "fucecchio"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2008,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "pantarei",
-      "titre": {
-        "fr": "Panta Rei : deux habitations écologiques",
-        "en": "Panta Rei: two eco-friendly houses",
-        "ar": "بانتا ري: مسكنان بيئيان"
-      },
-      "annee": 2008,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "bio",
-      "vedette": 0,
-      "lieu": {
+      "mission": {
         "fr": "",
         "en": "",
         "ar": ""
@@ -2532,209 +2596,209 @@
         "en": "",
         "ar": ""
       },
+      "surface": "",
+      "lieu": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "existant": [],
+      "maitre_ouvrage": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "titre": {
+        "fr": "Panta Rei : deux habitations écologiques",
+        "en": "Panta Rei: two eco-friendly houses",
+        "ar": "بانتا ري: مسكنان بيئيان"
+      },
+      "statut": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "categorie": "bio",
       "images": [
         "images2/p1.jpg",
         "images2/p2.jpg",
         "images2/134.jpg",
         "images2/135.jpg"
       ],
-      "maitre_ouvrage": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "surface": "",
-      "statut": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "parti": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "id": "pantarei"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2007,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "eljem",
-      "titre": {
-        "fr": "Structure d'accueil pour l'amphithéâtre d'El Jem (projet de fin d'études)",
-        "en": "Visitor centre for the El Jem amphitheatre (graduation project)",
-        "ar": "هيكل استقبال في خدمة المسرح الأثري بالجم (مشروع ختم الدراسات)"
-      },
-      "annee": 2007,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "pub",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "El Jem",
         "en": "El Jem",
         "ar": "الجم"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/e2.jpg",
-        "images2/e1.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Structure d'accueil pour l'amphithéâtre d'El Jem (projet de fin d'études)",
+        "en": "Visitor centre for the El Jem amphitheatre (graduation project)",
+        "ar": "هيكل استقبال في خدمة المسرح الأثري بالجم (مشروع ختم الدراسات)"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "pub",
+      "images": [
+        "images2/e2.jpg",
+        "images2/e1.jpg"
+      ],
+      "id": "eljem"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2007,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "djerba",
-      "titre": {
-        "fr": "Village touristique",
-        "en": "Tourist village",
-        "ar": "قرية سياحية"
-      },
-      "annee": 2007,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "loi",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "Djerba",
         "en": "Djerba",
         "ar": "جربة"
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/d1.jpg",
-        "images2/d2.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Village touristique",
+        "en": "Tourist village",
+        "ar": "قرية سياحية"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
+      "categorie": "loi",
+      "images": [
+        "images2/d1.jpg",
+        "images2/d2.jpg"
+      ],
+      "id": "djerba"
+    },
+    {
       "bioclimatique": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "plans": [],
+      "annee": 2007,
       "facades_existantes": [],
       "avant_apres": [],
-      "existant": []
-    },
-    {
-      "id": "leisure",
-      "titre": {
-        "fr": "Centre de loisirs",
-        "en": "Leisure centre",
-        "ar": "مركز ترفيه"
-      },
-      "annee": 2007,
+      "plans": [],
       "annee_affichee": "",
-      "categorie": "loi",
-      "vedette": 0,
+      "mission": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "resume": {
+        "fr": "",
+        "en": "",
+        "ar": ""
+      },
+      "surface": "",
       "lieu": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "resume": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "images": [
-        "images2/136.jpg"
-      ],
+      "existant": [],
       "maitre_ouvrage": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "surface": "",
+      "titre": {
+        "fr": "Centre de loisirs",
+        "en": "Leisure centre",
+        "ar": "مركز ترفيه"
+      },
       "statut": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "mission": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
+      "vedette": 0,
       "parti": {
         "fr": "",
         "en": "",
         "ar": ""
       },
-      "bioclimatique": {
-        "fr": "",
-        "en": "",
-        "ar": ""
-      },
-      "plans": [],
-      "facades_existantes": [],
-      "avant_apres": [],
-      "existant": []
+      "categorie": "loi",
+      "images": [
+        "images2/136.jpg"
+      ],
+      "id": "leisure"
     }
   ]
 }
