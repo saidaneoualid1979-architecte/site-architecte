@@ -1,0 +1,95 @@
+{
+  "prestations": [
+    {
+      "icone": "permis",
+      "titre": {
+        "fr": "Dossier de permis de bâtir",
+        "en": "Building permit application",
+        "ar": "ملف رخصة البناء"
+      },
+      "texte": {
+        "fr": "Plans, notice et pièces réglementaires pour obtenir l'autorisation de construire auprès de la municipalité.",
+        "en": "Drawings, report and regulatory documents to obtain planning permission from the municipality.",
+        "ar": "المخططات والمذكرة والوثائق الترتيبية للحصول على رخصة البناء من البلدية."
+      }
+    },
+    {
+      "icone": "execution",
+      "titre": {
+        "fr": "Dossier d'exécution",
+        "en": "Construction documents",
+        "ar": "ملف التنفيذ"
+      },
+      "texte": {
+        "fr": "Plans détaillés et descriptifs qui permettent aux entreprises de construire sans ambiguïté.",
+        "en": "Detailed drawings and specifications so contractors can build without ambiguity.",
+        "ar": "مخططات مفصّلة وكراسات وصفية تمكّن المقاولات من البناء دون التباس."
+      }
+    },
+    {
+      "icone": "chantier",
+      "titre": {
+        "fr": "Suivi de chantier",
+        "en": "Site supervision",
+        "ar": "متابعة الحضيرة"
+      },
+      "texte": {
+        "fr": "Visites et réunions de chantier pour vérifier que les travaux respectent le projet, la qualité et les délais.",
+        "en": "Site visits and meetings to check that the works follow the design, quality standards and schedule.",
+        "ar": "زيارات واجتماعات حضيرة للتأكد من مطابقة الأشغال للمشروع ومن جودتها واحترام آجالها."
+      }
+    },
+    {
+      "icone": "deco",
+      "titre": {
+        "fr": "Décoration d'intérieur",
+        "en": "Interior design",
+        "ar": "الديكور الداخلي"
+      },
+      "texte": {
+        "fr": "Aménagement, matériaux, mobilier et lumière, pour l'habitat comme pour les commerces et les bureaux.",
+        "en": "Layout, materials, furniture and lighting, for homes as well as shops and offices.",
+        "ar": "التهيئة والمواد والأثاث والإضاءة، للمساكن وكذلك للمحلات والمكاتب."
+      }
+    },
+    {
+      "icone": "eco",
+      "titre": {
+        "fr": "Construction écologique",
+        "en": "Ecological construction",
+        "ar": "البناء البيئي"
+      },
+      "texte": {
+        "fr": "Conception bioclimatique : orientation, protections solaires, ventilation naturelle, isolation et matériaux adaptés au climat.",
+        "en": "Bioclimatic design: orientation, solar shading, natural ventilation, insulation and climate-appropriate materials.",
+        "ar": "تصميم بيومناخي: التوجيه، الحماية من الشمس، التهوئة الطبيعية، العزل ومواد ملائمة للمناخ."
+      }
+    },
+    {
+      "icone": "diag",
+      "titre": {
+        "fr": "Diagnostic",
+        "en": "Building diagnosis",
+        "ar": "التشخيص"
+      },
+      "texte": {
+        "fr": "Relevé et analyse de l'état d'un bâtiment, de ses pathologies et des travaux nécessaires.",
+        "en": "Survey and analysis of a building's condition, its defects and the works required.",
+        "ar": "رفع وتحليل حالة المبنى وأمراضه والأشغال اللازمة."
+      }
+    },
+    {
+      "icone": "lotissement",
+      "titre": {
+        "fr": "Dossier de lotissement",
+        "en": "Land subdivision",
+        "ar": "ملف التقسيم"
+      },
+      "texte": {
+        "fr": "Étude et découpage d'un terrain en lots, avec voiries et réseaux, en vue de l'autorisation de lotir.",
+        "en": "Study and division of a plot into lots, with roads and utilities, for subdivision approval.",
+        "ar": "دراسة تقسيم أرض إلى مقاسم مع الطرقات والشبكات، للحصول على رخصة التقسيم."
+      }
+    }
+  ]
+}

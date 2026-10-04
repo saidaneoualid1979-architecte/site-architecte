@@ -1,0 +1,33 @@
+{
+  "fondateur_nom": "Walid (Oualid) Saidane",
+  "fondateur_photo": "images2/0.jpg",
+  "fondateur_role": {
+    "fr": "Architecte fondateur",
+    "en": "Founding architect",
+    "ar": "المهندس المعماري المؤسس"
+  },
+  "fondateur_bio": {
+    "fr": "Diplômé de l'École d'architecture et d'urbanisme de Carthage (2007), master en architecture bioclimatique et innovation technologique pour l'environnement (ABITA) à l'Université de Florence (2009). Vingt ans de projets en Tunisie et en Italie.",
+    "en": "Graduated from the School of Architecture and Urbanism of Carthage (2007), master's in bioclimatic architecture and environmental innovation (ABITA) at the University of Florence (2009). Twenty years of projects in Tunisia and Italy.",
+    "ar": "متخرّج من المدرسة الوطنية للهندسة المعمارية والتعمير بقرطاج (2007)، وحاصل على ماجستير في العمارة البيومناخية من جامعة فلورنسا (2009). عشرون سنة من المشاريع في تونس وإيطاليا."
+  },
+  "membres": [],
+  "collaborations": [
+    {
+      "nom": "Haidar Adel",
+      "texte": {
+        "fr": "agence Facila, architecte et expert en bioclimatique : siège du Ministère de l'Industrie, de l'Énergie et des PME (2009, 4e prix).",
+        "en": "Facila agency, architect and bioclimatic expert: headquarters of the Ministry of Industry, Energy and SMEs (2009, 4th prize).",
+        "ar": "مكتب فاسيلا، مهندس معماري وخبير في العمارة البيومناخية: مقر وزارة الصناعة والطاقة والمؤسسات الصغرى والمتوسطة (2009، الجائزة الرابعة)."
+      }
+    },
+    {
+      "nom": "Wassim Jguirim",
+      "texte": {
+        "fr": "architecte : concours du restaurant universitaire de Sousse (2012).",
+        "en": "architect: Sousse university restaurant competition (2012).",
+        "ar": "مهندس معماري: مسابقة المطعم الجامعي بسوسة (2012)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+# Espace d'administration du site (Decap CMS)
+backend:
+  name: github
+  repo: saidaneoualid1979-architecte/site-architecte
+  branch: main
+  site_domain: saidanewalid-architecte.netlify.app
+locale: fr
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+site_url: https://saidanewalid-architecte.tn
+display_url: https://saidanewalid-architecte.tn
+
+collections:
+  - name: contenu
+    label: "Contenu du site"
+    editor: {preview: false}
+    files:
+      - name: projets
+        label: "Projets"
+        file: "content/projets.json"
+        fields:
+          - label: "Liste des projets"
+            name: projets
+            widget: list
+            collapsed: true
+            summary: "{{fields.annee}} — {{fields.titre.fr}}"
+            add_to_top: true
+            fields:
+              - {label: "Identifiant (un mot unique sans espace, ex : villa-monastir)", name: id, widget: string}
+              - label: "Titre du projet"
+                name: titre
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - {label: "Année (pour le classement)", name: annee, widget: number, value_type: int}
+              - {label: "Année affichée (facultatif, ex : 2026–2027)", name: annee_affichee, widget: string, required: false}
+              - label: "Catégorie"
+                name: categorie
+                widget: select
+                options:
+                  - {label: "Équipements publics et concours", value: pub}
+                  - {label: "Habitat", value: hab}
+                  - {label: "Architecture intérieure", value: int}
+                  - {label: "Hôtellerie et loisirs", value: loi}
+                  - {label: "Équipements économiques", value: eco}
+                  - {label: "Bioclimatique et environnement", value: bio}
+              - {label: "Projet phare (1 à 6 = position dans le carrousel, 0 = non)", name: vedette, widget: number, value_type: int, default: 0, min: 0, max: 6, required: false}
+              - label: "Lieu"
+                name: lieu
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Résumé (une ou deux phrases)"
+                name: resume
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+              - label: "Images du projet (la première est l'image principale)"
+                name: images
+                widget: list
+                field: {label: "Image", name: image, widget: image}
+              - label: "Maître d'ouvrage"
+                name: maitre_ouvrage
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - {label: "Surface (ex : 350 m²)", name: surface, widget: string, required: false}
+              - label: "Statut"
+                name: statut
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Mission"
+                name: mission
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Parti architectural"
+                name: parti
+                widget: object
+                collapsed: false
+                required: false
+                hint: "Une ligne vide sépare les paragraphes. Commencez une ligne par - pour une liste, et par ## pour un sous-titre."
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+              - label: "Choix bioclimatiques"
+                name: bioclimatique
+                widget: object
+                collapsed: false
+                required: false
+                hint: "Une ligne vide sépare les paragraphes. Commencez une ligne par - pour une liste, et par ## pour un sous-titre."
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+              - label: "Plans, coupes et façades"
+                name: plans
+                widget: list
+                required: false
+                collapsed: true
+                fields:
+                  - {label: "Image", name: image, widget: image}
+                  - label: "Légende"
+                    name: legende
+                    widget: object
+                    collapsed: false
+                    required: false
+                    fields:
+                      - {label: "Français", name: fr, widget: string, required: false}
+                      - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                      - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Avant / après (côte à côte)"
+                name: avant_apres
+                widget: list
+                required: false
+                collapsed: true
+                fields:
+                  - {label: "Image AVANT (existant)", name: avant, widget: image}
+                  - {label: "Image APRÈS (projet)", name: apres, widget: image}
+              - label: "Photos de l'état existant"
+                name: existant
+                widget: list
+                required: false
+                field: {label: "Photo", name: photo, widget: image}
+              - label: "Façades existantes (avec onglets)"
+                name: facades_existantes
+                widget: list
+                required: false
+                collapsed: true
+                fields:
+                  - {label: "Image", name: image, widget: image}
+                  - label: "Nom de la façade (ex : Nord)"
+                    name: legende
+                    widget: object
+                    collapsed: false
+                    required: false
+                    fields:
+                      - {label: "Français", name: fr, widget: string, required: false}
+                      - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                      - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+
+      - name: accueil
+        label: "Page d'accueil"
+        file: "content/accueil.json"
+        fields:
+          - label: "Grand titre de l'accueil (un mot ou groupe de mots par ligne)"
+            name: manifeste
+            widget: object
+            collapsed: false
+            required: false
+            fields:
+              - {label: "Français", name: fr, widget: text, required: false}
+              - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+              - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+          - label: "Phrase sous le titre"
+            name: sous_titre
+            widget: object
+            collapsed: false
+            required: false
+            fields:
+              - {label: "Français", name: fr, widget: text, required: false}
+              - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+              - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+
+      - name: prestations
+        label: "Prestations"
+        file: "content/prestations.json"
+        fields:
+          - label: "Liste des prestations"
+            name: prestations
+            widget: list
+            summary: "{{fields.titre.fr}}"
+            collapsed: true
+            fields:
+              - label: "Icône"
+                name: icone
+                widget: select
+                options:
+                  - {label: "Document (permis)", value: permis}
+                  - {label: "Bâtiment (exécution)", value: execution}
+                  - {label: "Chantier", value: chantier}
+                  - {label: "Décoration", value: deco}
+                  - {label: "Feuille (écologique)", value: eco}
+                  - {label: "Loupe (diagnostic)", value: diag}
+                  - {label: "Plan (lotissement)", value: lotissement}
+              - label: "Titre"
+                name: titre
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Description"
+                name: texte
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+
+      - name: parcours
+        label: "Parcours"
+        file: "content/parcours.json"
+        fields:
+          - label: "Étapes du parcours"
+            name: parcours
+            widget: list
+            summary: "{{fields.annee}} — {{fields.titre.fr}}"
+            collapsed: true
+            fields:
+              - {label: "Année", name: annee, widget: string}
+              - label: "Titre"
+                name: titre
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+              - label: "Description"
+                name: texte
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+
+      - name: equipe
+        label: "Équipe"
+        file: "content/equipe.json"
+        fields:
+          - {label: "Nom du fondateur", name: fondateur_nom, widget: string}
+          - {label: "Photo du fondateur", name: fondateur_photo, widget: image}
+          - label: "Rôle du fondateur"
+            name: fondateur_role
+            widget: object
+            collapsed: false
+            required: false
+            fields:
+              - {label: "Français", name: fr, widget: string, required: false}
+              - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+              - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+          - label: "Biographie du fondateur"
+            name: fondateur_bio
+            widget: object
+            collapsed: false
+            required: false
+            fields:
+              - {label: "Français", name: fr, widget: text, required: false}
+              - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+              - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+          - label: "Membres de l'équipe"
+            name: membres
+            widget: list
+            required: false
+            summary: "{{fields.nom}}"
+            fields:
+              - {label: "Nom", name: nom, widget: string}
+              - {label: "Photo", name: photo, widget: image, required: false}
+              - label: "Rôle"
+                name: role
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: string, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: string, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: string, required: false}
+          - label: "Collaborations"
+            name: collaborations
+            widget: list
+            required: false
+            summary: "{{fields.nom}}"
+            fields:
+              - {label: "Nom", name: nom, widget: string}
+              - label: "Description"
+                name: texte
+                widget: object
+                collapsed: false
+                required: false
+                fields:
+                  - {label: "Français", name: fr, widget: text, required: false}
+                  - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+                  - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}
+
+      - name: coordonnees
+        label: "Coordonnées"
+        file: "content/coordonnees.json"
+        fields:
+          - {label: "E-mail", name: email, widget: string}
+          - {label: "Téléphone (affiché)", name: telephone, widget: string}
+          - {label: "Numéro WhatsApp (chiffres seulement, avec 216)", name: whatsapp, widget: string}
+          - {label: "Lien Google Maps", name: google_maps, widget: string}
+          - label: "Adresse"
+            name: adresse
+            widget: object
+            collapsed: false
+            required: false
+            fields:
+              - {label: "Français", name: fr, widget: text, required: false}
+              - {label: "English (laisser vide = français)", name: en, widget: text, required: false}
+              - {label: "العربية / Arabe (laisser vide = français)", name: ar, widget: text, required: false}

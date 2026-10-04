@@ -1,0 +1,121 @@
+{
+  "parcours": [
+    {
+      "annee": "2001",
+      "titre": {
+        "fr": "Stage, agence Gaaliche Kacem, Sousse",
+        "en": "Internship, Gaaliche Kacem agency, Sousse",
+        "ar": "تربص، مكتب قاسم القعليش، سوسة"
+      },
+      "texte": {
+        "fr": "Suivi du chantier d'un bâtiment administratif de la Poste tunisienne.",
+        "en": "Site supervision of an administrative building for La Poste Tunisienne.",
+        "ar": "متابعة حضيرة بناء مبنى إداري للبريد التونسي."
+      }
+    },
+    {
+      "annee": "2003",
+      "titre": {
+        "fr": "Stage, agence Chkir Hammadi, Sousse",
+        "en": "Internship, Chkir Hammadi agency, Sousse",
+        "ar": "تربص، مكتب حمادي الشكير، سوسة"
+      },
+      "texte": {
+        "fr": "Développement de projets et suivi de chantiers.",
+        "en": "Project development and site supervision.",
+        "ar": "تطوير المشاريع ومتابعة الحضائر."
+      }
+    },
+    {
+      "annee": "2004",
+      "titre": {
+        "fr": "Stage, direction régionale de l'Équipement, Sousse",
+        "en": "Internship, regional infrastructure office, Sousse",
+        "ar": "تربص، الإدارة الجهوية للتجهيز، سوسة"
+      },
+      "texte": {
+        "fr": "Vérification des demandes de permis de bâtir.",
+        "en": "Review of building permit applications.",
+        "ar": "التثبت من مطالب رخص البناء."
+      }
+    },
+    {
+      "annee": "2007",
+      "titre": {
+        "fr": "Diplôme d'architecte, ENAU Carthage",
+        "en": "Architecture degree, ENAU Carthage",
+        "ar": "شهادة مهندس معماري، المدرسة الوطنية للهندسة المعمارية والتعمير بقرطاج"
+      },
+      "texte": {
+        "fr": "Projet de fin d'études soutenu en février 2007 : une structure d'accueil au service de l'amphithéâtre romain d'El Jem.",
+        "en": "Graduation project defended in February 2007: a visitor reception building for the Roman amphitheatre of El Jem.",
+        "ar": "مشروع ختم الدراسات نوقش في فيفري 2007: هيكل استقبال في خدمة المسرح الروماني بالجم."
+      }
+    },
+    {
+      "annee": "2007",
+      "titre": {
+        "fr": "Stage professionnel, agence Gaigi, Tunisie",
+        "en": "Professional practicum, Gaigi agency, Tunisia",
+        "ar": "تربص مهني، مكتب القايقي، تونس"
+      },
+      "texte": {
+        "fr": "Neuf mois : permis de construire, suivi de chantiers, village touristique à Djerba. Examen validé en juin 2008 avec la mention Très bien et les félicitations du jury.",
+        "en": "Nine months: building permits, site supervision, a tourist village in Djerba. Final exam passed in June 2008 with distinction and the jury's congratulations.",
+        "ar": "تسعة أشهر: رخص البناء، متابعة الحضائر، قرية سياحية بجربة. اجتياز الامتحان في جوان 2008 بملاحظة حسن جدا مع تهاني اللجنة."
+      }
+    },
+    {
+      "annee": "2008",
+      "titre": {
+        "fr": "Architecte stagiaire, agence De Carlo Gualla, Milan",
+        "en": "Intern architect, De Carlo Gualla, Milan",
+        "ar": "مهندس معماري متربص، مكتب دي كارلو غوالا، ميلانو"
+      },
+      "texte": {
+        "fr": "Concours pour un complexe de bureaux à Stabio (Suisse) et 30 maisons bioclimatiques à Tricase.",
+        "en": "Competitions for an office complex in Stabio (Switzerland) and 30 bioclimatic houses in Tricase.",
+        "ar": "مسابقات لمركب مكاتب في ستابيو (سويسرا) و30 منزلا بيومناخيا في تريكازي."
+      }
+    },
+    {
+      "annee": "2009",
+      "titre": {
+        "fr": "Master, Université de Florence",
+        "en": "Master's degree, University of Florence",
+        "ar": "ماجستير، جامعة فلورنسا"
+      },
+      "texte": {
+        "fr": "Architecture bioclimatique et technologies de l'environnement (2007 à 2009).",
+        "en": "Bioclimatic architecture and environmental technology (2007 to 2009).",
+        "ar": "العمارة البيومناخية وتكنولوجيات البيئة (2007 إلى 2009)."
+      }
+    },
+    {
+      "annee": "2009",
+      "titre": {
+        "fr": "4e prix, concours national",
+        "en": "4th prize, national competition",
+        "ar": "الجائزة الرابعة، مسابقة وطنية"
+      },
+      "texte": {
+        "fr": "Siège du Ministère de l'Industrie, de l'Énergie et des PME, avec l'agence Facila.",
+        "en": "Headquarters of the Ministry of Industry, Energy and SMEs, with Facila agency.",
+        "ar": "مقر وزارة الصناعة والطاقة والمؤسسات الصغرى والمتوسطة، بالتعاون مع مكتب فاسيلا."
+      }
+    },
+    {
+      "annee": "2010",
+      "titre": {
+        "fr": "Projets à Sousse et dans le Sahel",
+        "en": "Projects in Sousse and the Sahel",
+        "ar": "مشاريع في سوسة والساحل"
+      },
+      "texte": {
+        "fr": "Habitat, équipements, intérieurs et concours, jusqu'à la Salle Olympique de Sousse.",
+        "en": "Housing, public buildings, interiors and competitions, up to the Sousse Olympic Hall.",
+        "ar": "السكن والمرافق والتصميم الداخلي والمسابقات، وصولا إلى القاعة الأولمبية بسوسة."
+      }
+    }
+  ]
+}
