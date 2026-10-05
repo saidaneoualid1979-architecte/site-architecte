@@ -21,8 +21,8 @@
         "ar": "ملف التنفيذ"
       },
       "texte": {
-        "fr": "Plans détaillés et descriptifs qui permettent aux entreprises de construire sans ambiguïté.",
-        "en": "Detailed drawings and specifications so contractors can build without ambiguity.",
+        "fr": "Plans détaillés et pièces techniques pour construire avec précision et maîtriser les coûts.",
+        "en": "Construction documents: Detailed drawings and technical documents for accurate construction and cost control.",
         "ar": "مخططات مفصّلة وكراسات وصفية تمكّن المقاولات من البناء دون التباس."
       }
     },
@@ -34,8 +34,8 @@
         "ar": "متابعة الحضيرة"
       },
       "texte": {
-        "fr": "Visites et réunions de chantier pour vérifier que les travaux respectent le projet, la qualité et les délais.",
-        "en": "Site visits and meetings to check that the works follow the design, quality standards and schedule.",
+        "fr": "Présence sur le terrain, coordination des entreprises et contrôle de la qualité jusqu'à la livraison.",
+        "en": "Site supervision: On-site presence, contractor coordination and quality control through to handover.",
         "ar": "زيارات واجتماعات حضيرة للتأكد من مطابقة الأشغال للمشروع ومن جودتها واحترام آجالها."
       }
     },
@@ -47,8 +47,8 @@
         "ar": "الديكور الداخلي"
       },
       "texte": {
-        "fr": "Aménagement, matériaux, mobilier et lumière, pour l'habitat comme pour les commerces et les bureaux.",
-        "en": "Layout, materials, furniture and lighting, for homes as well as shops and offices.",
+        "fr": "Des espaces intérieurs fonctionnels et chaleureux, du choix des matériaux à l'agencement.\n",
+        "en": "Interior design: Functional, welcoming interiors, from material selection to layout.",
         "ar": "التهيئة والمواد والأثاث والإضاءة، للمساكن وكذلك للمحلات والمكاتب."
       }
     },
@@ -60,8 +60,8 @@
         "ar": "البناء البيئي"
       },
       "texte": {
-        "fr": "Conception bioclimatique : orientation, protections solaires, ventilation naturelle, isolation et matériaux adaptés au climat.",
-        "en": "Bioclimatic design: orientation, solar shading, natural ventilation, insulation and climate-appropriate materials.",
+        "fr": "Des bâtiments pensés avec leur climat (orientation, ventilation naturelle, matériaux locaux) pour plus de confort et moins de consommation d'énergie.",
+        "en": "Bioclimatic design & sustainable construction: Buildings designed with their climate in mind (orientation, natural ventilation, local materials) for greater comfort and lower energy use.",
         "ar": "تصميم بيومناخي: التوجيه، الحماية من الشمس، التهوئة الطبيعية، العزل ومواد ملائمة للمناخ."
       }
     },
@@ -73,8 +73,8 @@
         "ar": "التشخيص"
       },
       "texte": {
-        "fr": "Relevé et analyse de l'état d'un bâtiment, de ses pathologies et des travaux nécessaires.",
-        "en": "Survey and analysis of a building's condition, its defects and the works required.",
+        "fr": "Analyse des pathologies d'un bâtiment existant et propositions de réaménagement ou de rénovation.",
+        "en": "Building assessment & rehabilitation: Analysis of defects in existing buildings and proposals for refurbishment or redevelopment.",
         "ar": "رفع وتحليل حالة المبنى وأمراضه والأشغال اللازمة."
       }
     },
@@ -86,8 +86,8 @@
         "ar": "ملف التقسيم"
       },
       "texte": {
-        "fr": "Étude et découpage d'un terrain en lots, avec voiries et réseaux, en vue de l'autorisation de lotir.",
-        "en": "Study and division of a plot into lots, with roads and utilities, for subdivision approval.",
+        "fr": "Étude et conception de lotissements, de la division parcellaire au dossier d'approbation.",
+        "en": "Land subdivision planning: Subdivision studies and design, from plot layout to approval documents.",
         "ar": "دراسة تقسيم أرض إلى مقاسم مع الطرقات والشبكات، للحصول على رخصة التقسيم."
       }
     }
