@@ -1,6 +1,52 @@
 {
   "projets": [
     {
+      "avant_apres": [
+        {
+          "apres": "/images/uploads/whatsapp-image-2026-10-06-at-17.54.54.jpeg"
+        }
+      ],
+      "plans": [
+        {
+          "image": "/images/uploads/whatsapp-image-2026-10-06-at-17.54.54-2-.jpeg"
+        }
+      ],
+      "annee_affichee": "2025 - 2026",
+      "mission": {
+        "fr": "CONCEPTION - DOSSIER D'APPEL D'OFFRE - DOSSIER D'EXECUTION - DECORATION - SUIVI DE CHANTIER "
+      },
+      "resume": {
+        "fr": "PROJET DE CONSTRUCTION D'UNE ECOLE PRIMAIRE DE 500M² COMPOSEE DE DEUX SALLES DE CLASSE , D'UN BLOC SANITAIRE ET D'UNE ADMINISTRATION "
+      },
+      "surface": "500M²",
+      "lieu": {
+        "fr": "ZAWIA SOUSSE"
+      },
+      "existant": [
+        "/images/uploads/whatsapp-image-2026-10-06-at-17.54.57-3-.jpeg",
+        "/images/uploads/whatsapp-image-2026-10-06-at-17.54.57-4-.jpeg",
+        "/images/uploads/whatsapp-image-2026-10-06-at-17.54.58-4-.jpeg"
+      ],
+      "maitre_ouvrage": {
+        "fr": "DELEGATION REGIONALE DE L'ENSEIGNEMENT DE SOUSSE"
+      },
+      "titre": {
+        "fr": "ECOLE PRIMAIRE EL EZDIHAR - ZAWIA SOUSSE"
+      },
+      "statut": {
+        "fr": "REALISEE"
+      },
+      "vedette": 0,
+      "parti": {
+        "fr": "CONCEVOIR UN ETABLISSEMENT VIVANT POUR LES ELEVES AFIN DU'IL PUISSE ETUDIER ET PASSER DE BEAUX MOMENTS TOUT EN TENANT COMPTE DES ORIENTATIONS, MATERIAUX DE CONSTRUCTION ET DU CHOIX DES COULEURS SUIVANT LA PSYCHOLOGIE DE L'ENFANT."
+      },
+      "categorie": "pub",
+      "images": [
+        "/images/uploads/whatsapp-image-2026-10-06-at-17.54.55-2-.jpeg"
+      ],
+      "id": "ECOLE PRIMAIRE EL EZDIHAR - ZAWIA SOUSSE"
+    },
+    {
       "annee": 2023,
       "facades_existantes": [
         {
